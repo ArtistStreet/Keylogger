@@ -62,3 +62,36 @@ c
 
 rum[Backspace]n[160]-image.cpp
 [L-Ctrl Pressed]s[L-Ctrl Released][LAlt Released] .
+[LAlt Released]w[Tab][Tab] d e  eawd adadadadd ardwadadarwdwwaawaaw [160] awdedsedawarwdsdwadad a  wr[160]rr aweedaasdawaa ddadw[160]vswas  edswev aa [Tab][Tab][Tab][Tab]w[Tab] [Tab] [Tab][Tab]d  [Tab]ddad  w[160]dvadewsaesrwaw  ad [160]Dswadsawaeaseadwrd  sdwdawdw  wwdweeadadsarwaa  dsa  dardwaxawdadwesedwrdsd wadaddasawds[160]Wrdsadeesdadwr[Tab]dsa dwradsaaaaawdwd a  dadwdrdd aaa d awdad sadsa  esaew[160]rrxds[Tab] w[160]r[Tab][Tab][Tab][Tab][Tab][Tab]d awaawessdsdsradawds  w drdadawdsdwr[Tab][LAlt Released]wd sd[160]Wr  [Tab]  [Tab]w[Tab][Tab]d[160] rd  w  dwdsa  awdardww[Tab]dw aa  wrdaw a dwadadweds eds d  wr[Tab]dadawdadwrxwa  da  adw[160]vdsawqa  we  w[Tab]d[160] r  [Tab][Tab]aa[160]avswsedse[LAlt Released]rwads  sdwwsardadaw  awdadwas  arwadwadsdww[160]r asdrdwc  [Tab]aadadadarddadadadadadadadarwdsadwddeseadaddadadardw daad  wasdadwadrwas  ea  [160]Awrr adsadadsarw[Tab]dsaddawrdsdwadwadwasarwaasdad[160]sawes edw[160][LAlt Released]w[Tab][160]r[Tab]v[Tab][Tab][Tab][Tab]dadd[160]vswddeasdwra[160]Wa  raawaaaaawesedadadsadsdawawarww d [160]vsaweesdwadwraw a[Tab]ad[160]sward   a   [Tab][Tab]d [Tab] w  dadwesaw[160]rraw a dddasawaw[160]swa [160]qa w a[160]dadwd  [160]aaa[160][Tab][Tab][Tab][Tab][Tab]eearw[160]r[Tab]r ad  s  wr  aa s d a[160]swavaswaeaesdadarwdadadwaadawwradwedsawearawawdsadadadadwdaawesda [160]Wrr  asdwarwasdwrdsd wrdwawdwaddadasdwesedwr dardvswdssw[160]awa edsdaw[Tab]w[Tab]v[Tab]v[Tab]d[160][Tab][Tab][Tab]d  [Tab]    dasdadedsdearwdsadawas  wasddawawaadadarwasdwds[160]Wr  awdsdawdawrdw  a [160]vdsweewrad [160]addsdw s  d[Tab][Tab][Tab]nn[Tab]nnn[Tab][Esc][Esc][Tab][Tab][Esc][LAlt Released][L-Ctrl Pressed][Backspace][L-Ctrl Released]upload[LAlt Released]upload file to new respon
+[L-Ctrl Pressed]c[L-Ctrl Released][L-Ctrl Pressed]v[L-Ctrl Released][LAlt Released][LAlt Released] [L-Ctrl Pressed]v[L-Ctrl Released]
+[20][Up][Up][20][LAlt Released][LAlt Released][L-Ctrl Pressed]
+[L-Ctrl Released][20][Up][20].vscode[LAlt Released][LAlt Released][L-Ctrl Pressed]s[L-Ctrl Released][LAlt Released]
+git commit -m [160]'03102003[160]'
+git push [LAlt Released][LAlt Released]-u orgiin[Backspace][Backspace][Backspace][Backspace]igin main
+[LAlt Released][L-Ctrl Pressed]v[L-Ctrl Released]
+
+[LAlt Released]w[160]r[Tab]  [Tab][Tab]  [Tab]  dr[Tab] adddaarwwwawadasewsed sds r[160]Awrrxasaarwadwwadawrdadawawaedsed[160]svdwadsdwrdsadaw rxaaw   [Tab]   [Tab] w[160]r[Tab][Tab][Tab][Tab][Tab]dadadwawedsedsaasdw[160]ds dwrd[Tab] [Tab]  [Tab]w[160]r[Tab][Tab]a  dadaawededwadwawwadwasdsa      w[160]r[Tab]d[Tab]aadr[Tab][Tab]daddweer[Tab]d  wawd  adwaadwawdsarw wasdawdasdawadwdw[160]vsweeav sdwdarsawaaw[LAlt Released]w dwda  aaes  w[160]vswasawdaw[160]qdw  [160]adw  ddawaa[160]w[160]r[Tab][Tab][Tab][LAlt Released][Tab][Tab][Tab]  [Tab][Tab][160]ddaaradawadedsa  aadawadard wwasdadwasdawesedadwraasawsasdww[160]vsdw dvaes [160]Awr  asawraw[160]rr adwadwawvasasaedwdaes  ddwdadarswawa wda  dwedw[160]dsv [160]vsdaarw   w[160]r[Tab][Tab][Tab][Tab][Tab][Tab][Tab][Tab]d aeeadwarwrw  awarwwadsaa  [Tab] [Tab]w[160]r[Tab][Tab][Tab]dd[160]ewd[Tab][Tab][Tab]ww[Tab]ww[Tab][Tab][LAlt Released][LAlt Released][LAlt Released]w[Tab] [160]r[Tab]v[Tab][Tab]  aawadwdsaweseasdwdwrd[160]swvswesessaaerw [160]r  w[160]r[Tab]  [LAlt Released]  d ar[Tab]  dww[160]vsaweasdasda    [Tab] w[160]r[Tab][Tab][Tab][Tab]  d      edssa  rwd[160]asaaawww[160]r[Tab]d[Tab]    [Tab][Tab]aadw  dw  waesae s  awd  arwxdwadasddwsaewdaseww[160]r[Tab][Tab][Tab]d  aawdsadda ew[160]r[Tab]dde  ea rw[Tab][Esc][LAlt Released][LAlt Released]w [LAlt Released][LAlt Released]w [LAlt Released]wddddddaaddaaddaaa[LAlt Released][LAlt Released]awadadaaewa s d[160]W [Tab] [Tab]w[160]r[Tab][Tab][Tab]  aadeddseasda dwdwrd[160]vswdawda aa aa a wease  a[160]Wrrasaawadaw  sdaewsdseaasw[160]vswdvawraw adwdawesdda  [160]Wrra  dwav  sw[160]r[Tab]d[Tab][Tab]  aadadeds dasdwrdadadwasawd[160]dsarwadedwdsawra dasdad  a[160]swvasawdsawwrasdw[LAlt Released]wdwawdwweaedawadwarw  [160]vdsawaaa d [160]Avwr[Tab]dw d daddsaw asdwesarw d d arwawwas  aw[160]aswedsddawr  assrsaa[160]swew[Tab][Tab][Tab][Tab][Tab]aard  wdeeawra[160]rwraswdwasarw[Tab]dsdesdedwrdsawar  d a waadw  adw  asdr  w asrasdw  sarww d[160]qwdsdwsw[160]awdaaw[Tab][Tab][160][Tab]r[Tab]d d  dsasesedwdw[160]avsdwdadar w[160]dawra[160]sw adw d dw adsdwarwddeewdrw[160]rrawd  wawawdad wedes  aw[160][Tab] w[Tab][Tab][160]r[Tab][Tab][Tab]ddaedaearwaadadsdasarwaswawsdweeasdawrd sadaw[160]rr [Tab]   [Tab] w[Tab][Tab][160]r[Tab][Tab][Tab]wddwdsasdw sdwsddawawesss[160]aswaadawddr  [160]sw ddadw awdadwedwa[LAlt Released]wr[Tab]aa[160]vawasadawdadw  weasedwrda [160]Avswdadaasd adsdwraadw aesxwd  awdadw[160]rrdsdwadadsasadarw [160]asdedas d w[160]rr  asddwr[Tab]wdw[Tab]dawarw[Tab]dwdwddessedwwraadarwawdwa[160]vswesdwer [160]adxdwddsadaarwasdw  aw  d[160]qaw  [160]adawsaw  d[160]Asdw  dd  dr  dess  [160]awswvawasddw arwdawesewvssdwasawraawa[160]asawvaswewedva[Tab]w[Tab][Tab][160]r[Tab][Tab]  d  [Tab][Tab][Tab][Esc][LAlt Released][LAlt Released][160][46]
+[160][160][46]
+[160][160][46]
+
+[Keylogger started]
+[LAlt Released][L-Ctrl Pressed][Right][L-Ctrl Released][35][LAlt Released][LAlt Released]run[160]-hidden[L-Ctrl Pressed]s[L-Ctrl Released][LAlt Released][LAlt Released]
+[Keylogger started]
+[LAlt Released]a.exe[L-Ctrl Pressed]s[L-Ctrl Released][LAlt Released][160][46]
+[LAlt Released]
+[Keylogger started]
+[LAlt Released]
+[Keylogger started]
+[LAlt Released]
+[Keylogger started]
+[LAlt Released][LAlt Released][LAlt Released][LAlt Released][LAlt Released][L-Ctrl Pressed]/s[L-Ctrl Released][LAlt Released]
+[Keylogger started]
+[LAlt Released]how to auto upload file to online 
+[LAlt Released]ftp serv
+er
+[LAlt Released]
+att
+ -[Backspace][160]=h [160]=s [LAlt Released][160]C
+.jpg[L-Ctrl Pressed]s[L-Ctrl Released][LAlt Released]
+[Keylogger started]
+[LAlt Released]
